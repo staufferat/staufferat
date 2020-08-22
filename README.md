@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Aaron Tim Stauffer. From summer 2017 to summer 2021 I did my apprenticeship as a software engineer.
+I worked in this thime for (https://www.autexis-it.com/ "Autexis IT"), and went to school at (https://www.bbbaden.ch/ "BBBaden").
+
 <!--
 **staufferat/staufferat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
